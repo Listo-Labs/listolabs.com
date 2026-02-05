@@ -1,0 +1,25 @@
+/* TEAM */
+
+Name: Listo Labs
+Site: listolabs.com
+Contact: hello@listolabs.com
+Location: United States
+
+/* THANKS */
+
+Coffee, for obvious reasons.
+Shopify, for the platform.
+Our clients, for trusting two people with their stores.
+
+/* SITE */
+
+Standards: HTML5, CSS3, JavaScript
+Software: Built by hand. No frameworks. No dependencies.
+Fonts: Inter, JetBrains Mono
+Colors: #000, #22c55e, #fff
+
+/* EASTER EGGS */
+
+You found humans.txt — nice.
+There are more hidden things on this site.
+Keep looking.

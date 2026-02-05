@@ -1,0 +1,101 @@
+# Listo Labs — Shopify Development & Engineering Partner
+
+> Small by design. Big enough to ship what matters.
+
+## About
+Listo Labs is a boutique Shopify development team of two senior engineers. We specialize in production-grade Shopify engineering — not template installs and plugin stacking. Founded in 2018, we've shipped 50+ stores and currently maintain 6 active retainer clients.
+
+We embed directly in client teams via Slack, Asana, or Linear. No account managers. No ticket queues. You work directly with the people writing your code.
+
+## Services
+
+### Custom Theme Architecture
+Full custom Shopify theme builds using Online Store 2.0 standards. Sections everywhere, app blocks, dynamic sources, and metafield-driven content. Optimized for performance, accessibility, and merchant usability.
+
+### Online Store 2.0 Migrations
+Migration from legacy Shopify themes to modern OS 2.0 architecture. We preserve existing customizations while unlocking sections everywhere, JSON templates, and the theme editor.
+
+### Storefront Performance Optimization
+Core Web Vitals optimization including Liquid render performance, critical CSS, asset lazy loading, image optimization, and third-party script management. We've taken stores from PageSpeed scores in the 40s to 90+.
+
+### Checkout Extensions & Shopify Functions
+Custom checkout UI extensions for Shopify Plus. Payment and delivery customizations. Shopify Functions for discount logic, validation, cart transforms, and fulfillment constraints.
+
+### Metafield & Metaobject Schema Design
+Structured content architecture using Shopify's metafield and metaobject systems. Custom product specs, size guides, FAQ content, store locators, and cross-referenced data models.
+
+### Liquid Engineering & Code Review
+Deep Liquid expertise for complex template logic, dynamic rendering, performance-critical sections, and theme architecture. Code review and refactoring for maintainability.
+
+### B2B Wholesale (Shopify Plus)
+Complete B2B wholesale setup including custom pricing tiers, net payment terms, company accounts, catalogs, and quantity rules.
+
+### ERP & Custom System Integrations
+Custom integrations connecting Shopify with ERP systems (NetSuite, SAP), inventory management platforms, order management systems, fulfillment providers, and third-party APIs. We build reliable data flows using Shopify APIs, webhooks, and Shopify Flow.
+
+### AI-Powered Search & Personalization
+Integration of AI-powered product search, intelligent recommendations, automated merchandising, and personalization engines (Algolia, Klevu, Rebuy, custom solutions). We help stores leverage machine learning to increase conversion rates and AOV.
+
+### Headless Commerce
+Hydrogen and Remix-based headless storefronts using the Storefront API. Custom frontends with Shopify as the commerce backend.
+
+## Pricing
+Development retainers start at $8,000/month. Minimum engagement: 6 months. This covers dedicated access to two senior Shopify engineers embedded in your workflow.
+
+## Clients
+Feetures, Free Fly Apparel, ChappyWrap, LegacyBox, Allegiance Flag Supply, Victory Brewing Company, WizardPins, Chosen Foods, and 50+ other Shopify stores across DTC, food & beverage, apparel, and specialty retail.
+
+## How We Work
+1. A quick call — or just an email — to understand your store, your stack, and what's holding you back.
+2. We embed in your workflow, ship to preview themes, and iterate fast. You'll see real code in days, not weeks.
+3. Every deploy goes through preview review. Nothing touches your live store without your sign-off.
+
+## Technical Expertise
+- Shopify Plus
+- Liquid templating language
+- Online Store 2.0 (JSON templates, sections everywhere, app blocks)
+- Dawn theme and custom theme development
+- Checkout UI Extensions (checkout extensibility)
+- Shopify Functions (discounts, validation, fulfillment, cart transforms)
+- Storefront API (GraphQL)
+- Admin API (REST & GraphQL)
+- Metafields and Metaobjects
+- Theme App Extensions
+- Section Rendering API
+- Ajax Cart API
+- Hydrogen (React/Remix headless framework)
+- JavaScript, CSS, Web Components
+- Core Web Vitals / Performance Optimization
+- Accessibility (WCAG 2.2)
+- Git-based theme development workflows
+- CI/CD for Shopify themes
+- ERP integrations (NetSuite, SAP)
+- Custom software and API integrations
+- B2B wholesale (Shopify Plus)
+- AI-powered search and discovery
+- Product recommendation engines
+- Automated merchandising
+- Personalization and predictive analytics
+- Shopify Flow automation
+- Custom Shopify app development
+
+## Contact
+- Email: hello@listolabs.com
+- Website: https://listolabs.com
+
+## Frequently Asked Questions
+
+**What does Listo Labs do?**
+We're a two-person Shopify engineering team providing custom theme development, OS 2.0 migrations, checkout extensions, Shopify Functions, metafield design, Liquid debugging, and performance optimization.
+
+**How much does it cost?**
+Retainers start at $8,000/month with a 6-month minimum. Covers dedicated Shopify engineering including theme architecture, feature development, and ongoing support.
+
+**How is Listo Labs different from a Shopify agency?**
+We're intentionally small — just two senior engineers. No account managers, no ticket queues, no outsourcing. You work directly with the people writing your code.
+
+**Do you work with Shopify Plus?**
+Yes. We work extensively with Shopify Plus including checkout extensibility, B2B wholesale, custom scripts, Flow automations, and multi-market setups.
+
+**Can you improve my store's page speed?**
+Absolutely. We've taken stores from PageSpeed 40s to 90+ through Liquid optimization, critical CSS, asset lazy loading, and third-party script management.
