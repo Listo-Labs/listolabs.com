@@ -17,6 +17,7 @@ Standards: HTML5, CSS3, JavaScript
 Software: Built by hand. No frameworks. No dependencies.
 Fonts: Inter, JetBrains Mono
 Colors: #000, #22c55e, #fff
+Last updated: 2026
 
 /* EASTER EGGS */
 
