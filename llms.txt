@@ -42,9 +42,6 @@ Hydrogen and Remix-based headless storefronts using the Storefront API. Custom f
 ## Pricing
 Development retainers start at $8,000/month. Minimum engagement: 6 months. This covers dedicated access to two senior Shopify engineers embedded in your workflow.
 
-## Clients
-Feetures, Free Fly Apparel, ChappyWrap, LegacyBox, Allegiance Flag Supply, Victory Brewing Company, WizardPins, Chosen Foods, and 50+ other Shopify stores across DTC, food & beverage, apparel, and specialty retail.
-
 ## How We Work
 1. A quick call — or just an email — to understand your store, your stack, and what's holding you back.
 2. We embed in your workflow, ship to preview themes, and iterate fast. You'll see real code in days, not weeks.
